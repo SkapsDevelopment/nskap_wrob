@@ -22,8 +22,8 @@ JOIN OUR DISOCORD: https://discord.gg/hMMMDpXHJm
 ---
 
 ## 📂 Installation
-1. Download `skap_wrob`  
+1. Download `nskap_wrob`  
 2. Place it inside `resources/[scripts]`  
 3. Add this line to your `server.cfg`:  
    ```cfg
-   ensure skap_wrob
+   ensure nskap_wrob
